@@ -52,8 +52,8 @@ Repositório com desafios e projetos do bootcamp
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muriloh-Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Murilo GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloh-Barbosa&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muriloh-Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Murilo GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloh-Barbosa&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Langs" />
 </p>
 
 ---
